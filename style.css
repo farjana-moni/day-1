@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:darkgreen;
+}
+.position{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+h1{
+    color:thistle;
+    font-size: 50px;
+}
+
+p{
+    color: thistle;
+    font-size: 25px;
+    padding-left: 100px;
+    padding-right: 100px
+    
+    
+}
+
+.img{
+    height: 300px;
+}
